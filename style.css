@@ -1,0 +1,39 @@
+body{
+    font-family: 'Island Moments', cursive;
+    margin:0px;
+}
+h1{
+    font-size: 70px;
+}
+.nino{
+    color: darkblue;
+}
+h3{
+    font-size: 40px;
+}
+p{font-size: 30px;
+    color: rebeccapurple;
+}
+section{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    padding-left: 10%;
+}
+.half-width img{
+    width:50%;
+}
+.link{
+    text-decoration: none;
+    background-image: linear-gradient(violet,white);
+    border:2px solid black;
+    border-radius: 5px;
+    font-size: 30px;
+    padding: 2px;
+    font-weight: 900;
+}
+.graade{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
